@@ -110,7 +110,7 @@ body {
   margin: 0 auto;
 }
 
-.video iframe {
+.video video {
   width: 80%;
   height: 170px;
 }
@@ -200,7 +200,7 @@ body {
   .service p, .video p {
     margin-top: 10px;
   }
-  .video iframe {
+  .video video {
     height: 230px;
   }
 }
@@ -228,7 +228,7 @@ body {
   .service, .video {
     width: 90%;
   }
-  .video iframe {
+  .video video {
     height: 140px;
   }
 
