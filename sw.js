@@ -28,6 +28,7 @@ var urlsToCache = [
   './img/facebook.png',
   './img/instagram.png',
   './img/twitter.png',
+  './videos/1.mp4'
 ];
 
 // EVENTO INSTALL
